@@ -1,1 +1,5 @@
+com/taskflow/model/Task.class
 com/taskflow/Main.class
+com/taskflow/model/Priority.class
+com/taskflow/model/TaskStatus.class
+com/taskflow/service/TaskService.class
